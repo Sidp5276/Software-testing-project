@@ -61,4 +61,4 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 - Test Reports
 - Test Metrics
 
-I have created a Test Plan for the Project
+I have created Test Plan for the Project
